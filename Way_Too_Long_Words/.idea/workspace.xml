@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0d3f6cd-efc5-4918-b3cb-3b44d24d1f7c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1fzhLULd4cRmzJ95plzdIMGXdEl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0d3f6cd-efc5-4918-b3cb-3b44d24d1f7c" name="Default Changelist" comment="" />
+      <created>1597226773614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597226773614</updated>
+      <workItem from="1597226775114" duration="229000" />
+      <workItem from="1597227018954" duration="11000" />
+      <workItem from="1597227136514" duration="422000" />
+      <workItem from="1597271357606" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="106" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597227374264">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="618" y="106" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1597227374264" />
+    <state x="225" y="31" width="992" height="737" key="SettingsEditor" timestamp="1597227427803">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="225" y="31" width="992" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1597227427803" />
+  </component>
+</project>
